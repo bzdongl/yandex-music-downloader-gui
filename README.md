@@ -20,4 +20,4 @@
 ## Лицензия и благодарности
 Этот проект распространяется по лицензии MIT. 
 
-В основе графической оболочки используется консольная утилита [yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) от разработчика Lev Plyusnin, которая также распространяется под лицензией MIT. Оригинальный текст лицензии сохранен в файле LICENSE.
+В основе графической оболочки используется консольная утилита [yandex-music-downloader](https://github.com/llistochek/yandex-music-downloader) от разработчика Lev Plyusnin, которая также распространяется под лицензией MIT. Оригинальный текст лицензии сохранен в файле [LICENSE](./LICENSE).
