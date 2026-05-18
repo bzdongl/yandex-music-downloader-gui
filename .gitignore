@@ -1,0 +1,22 @@
+# Токены и конфиги
+.env
+*.token
+config.json
+session.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Сборка
+build/
+dist/
+*.spec
+*.dmg
+
+# Система
+.DS_Store
+Thumbs.db
+*.log
